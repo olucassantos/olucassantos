@@ -2,8 +2,7 @@
 
 -----
 ## Professor de Tecnologia
-## Cozinheiro
-## Cuidador de Pets
-## Intusiasta de Jogos Indies!
+## Desenvolvedor WEB
+## JS PRO
 
 Sempre buscando melhorar, mas sem surtar!
