@@ -1,10 +1,8 @@
-https://www.markdownguide.org/cheat-sheet/
-
 # Lucas Anjos :wave:
 
-## Habilidades
+## Habilidades :muscle:
 
-Desenvolvedor Full Stack Web, Coordenação de projetos, Lider de equipes e Professor :computer: :heart:
+Desenvolvedor Full Stack Web, Coordenador de projetos, Lider de equipes e Professor :computer: :heart:
 
 ## Linguagens conhecidas
 
