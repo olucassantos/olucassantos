@@ -4,7 +4,7 @@
 
 Desenvolvedor Full Stack Web, Coordenador de projetos, Lider de equipes e Professor :computer: :heart:
 
-## Linguagens conhecidas
+## Linguagens conhecidas :computer:
 
 - [x] SQL
 - [x] PHP
